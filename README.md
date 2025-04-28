@@ -1,3 +1,7 @@
-# AIT 414- AI FOR CYBERSECURITY
+# S8 CSE(AI) NOTES
 
-This repository contains the notes of this subject. All the 5 modules is available.
+This repository contains the notes of the subjects of S8 CSE(AI) Department of KTU.
+
+Subjects include:
+1. AI for Cybersecurity
+2. Human Computer Interaction
