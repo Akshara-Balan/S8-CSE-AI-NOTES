@@ -1,6 +1,7 @@
 # AMT 416 HUMAN COMPUTER INTERACTION
 
 KTU BTECH S8 Elective
+
 Credit: 3
 
 ## Syllabus
